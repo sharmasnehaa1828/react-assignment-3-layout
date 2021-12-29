@@ -1,0 +1,68 @@
+.customer-info
+{
+    height:20vh;
+    width:100%;
+    border:1px solid blue;
+    padding-left:10px;
+
+}
+.order-info
+{
+    height:20vh;
+    width:100%;
+    border:1px solid grey;
+    background-color:lightgrey;
+    padding-left:10px;
+
+}
+.order-info p{
+    display:inline-block;
+    margin-top: 40px;
+    margin-right:130px;
+    margin-bottom:3px;
+}
+
+
+.product-list
+{
+    height:20vh;
+    width:100%;
+    border:1px solid grey;
+    padding-left:10px;
+}
+.product-list div{
+    display: inline-block;
+    margin:1%;
+}
+#box
+{
+    width:10px;
+    height:10px;
+    border:2px solid pink;
+
+
+}
+img{
+    width:100px;
+    height:100px;
+    vertical-align: middle;
+
+}
+.main-div
+{
+    margin:3%;
+}
+button{
+    float:right;
+    margin-top:-50px;
+    width:60px;
+    height:30px;
+    background-color: black;
+    color:white;
+}
+.header p,h4{
+    text-align: center;
+}
+.header{
+    background-color: lightgrey;
+}
